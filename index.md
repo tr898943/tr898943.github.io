@@ -11,27 +11,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Personal Info
+- [resume](https://drive.google.com/file/d/1WBiG_2s8-1E7-n8sO5IaOmbS5o5MN6mC/view?usp=sharing)
+- [Linkedin](https://www.linkedin.com/in/天宇-陈-a02b3a1a3)
+- [Github](https://github.com/tr898943/)
 
-- Bulleted
-- List
+## Blog
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tr898943/tr898943.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Stat 385 Project
+- Stat 385 HW1
