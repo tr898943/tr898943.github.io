@@ -17,4 +17,4 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ## Blog
 
 - [Stat 385 Project](Stat-385-Project.html)
-- Stat 385 HW1
+- [Stat 385 HW1](Stat-385-HW1.md)
