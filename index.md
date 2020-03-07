@@ -8,8 +8,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 ![](410Hw04-1.png)
-```markdown
-Syntax highlighted code block
 
 ## Personal Info
 - [resume](https://drive.google.com/file/d/1WBiG_2s8-1E7-n8sO5IaOmbS5o5MN6mC/view?usp=sharing)
