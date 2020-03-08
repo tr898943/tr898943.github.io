@@ -1,13 +1,10 @@
 ## A short bio
 
-You can use the [editor on GitHub](https://github.com/tr898943/tr898943.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Tianyu Chen. I am a junior at University of Illinois, Urbana-Champaign. My concentrated fields are Economics and Statistics. After graduating, I am planning to go to graduate school.
 
 ### Picture
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-![](410Hw04-1.png)
+![](unnamed.png)
 
 ## Personal Info
 - [resume](https://drive.google.com/file/d/1WBiG_2s8-1E7-n8sO5IaOmbS5o5MN6mC/view?usp=sharing)
